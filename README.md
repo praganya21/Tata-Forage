@@ -7,6 +7,26 @@ An online retail store wants to review their data and get insights that would be
 
 **Link to** [Certificate](https://www.novypro.com/project/tata-virtual-internship-power-bi)
 
+**Key Metrics**
+
+- Revenue
+- Total Quantities sold
+- Total variety of products
+- Total no. of customers
+- No. of countries
+- Total no. of orders
+- Customer Retention Rate
+- customer repetition
+
+**Informative Visuals**
+
+- Monthly Customer Retention Rate
+- Revenue and Quantity sold by Country
+- Top 5 high revenue generated products along with quantity
+- Top 10 high revenue generated customers
+- Top 3 and bottom 3 countries by revenue generation
+- Customer repetion
+
 **Key Insights**
 
 - November contributes the most to the revenue generation i.e., 1.5M while the February month generates the least revenue of 523K.
